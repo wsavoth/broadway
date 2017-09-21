@@ -1,0 +1,32 @@
+body {
+  font-family: Helvetica;
+  text-align: center;
+  font-weight: normal;
+}
+
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+#designed {
+  color: white;
+}
+
+#copyright {
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  text-align: left;
+}

@@ -16,7 +16,7 @@ h2 {
 }
 
 h3 {
-  font-size: 32px;
+  font-size: 23px;
   font-weight: bold;
 }
 
@@ -29,4 +29,25 @@ h3 {
   color: white;
   background-color: dimgray;
   text-align: left;
+}
+
+p {
+  font-size: 14px;
+}
+
+li {
+  font-size: 18px;
+  font-weight: bold;
+  list-style-type: none;
+  color: white;
+  padding-bottom: 10px;
+}
+
+div {
+  background-image: url("../images/the-flatiron-building.png");
+}
+
+img {
+  display: block;
+  margin: auto;
 }

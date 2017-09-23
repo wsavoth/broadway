@@ -22,6 +22,7 @@ h3 {
 
 #designed {
   color: white;
+  background-image: url("../images/the-flatiron-building.png");
 }
 
 #copyright {
@@ -29,6 +30,11 @@ h3 {
   color: white;
   background-color: dimgray;
   text-align: left;
+}
+
+#contact {
+  font-weight: normal;
+  color: black;
 }
 
 p {
